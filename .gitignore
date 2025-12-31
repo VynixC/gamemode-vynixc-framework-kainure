@@ -6,7 +6,6 @@ dist/
 *.log
 
 # Binários e libs externas (instaladas separadamente)
-plugins/
 
 # Arquivos do sistema
 .DS_Store
