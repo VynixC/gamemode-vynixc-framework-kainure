@@ -1,0 +1,13 @@
+# Essenciais do repositório (excluir artefatos e binários não essenciais)
+crashinfo.txt
+players.json
+node_modules/
+dist/
+*.log
+
+# Binários e libs externas (instaladas separadamente)
+plugins/
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
