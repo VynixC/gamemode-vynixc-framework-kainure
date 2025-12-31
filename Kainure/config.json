@@ -1,0 +1,10 @@
+{
+    "configs": {
+        "main_file": "./game/main.js"
+    },
+    "typescript": {
+        "auto_install": false,
+        "enabled": false,
+        "output_dir": "./dist"
+    }
+}
